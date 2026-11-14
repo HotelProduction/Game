@@ -1,0 +1,6 @@
+{
+  "name": "ROOM 0",
+  "description": "ROOM 0 — Cooperative 3D Psychological Survival Horror for 2–3 players with fractured realities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
